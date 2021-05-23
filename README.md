@@ -5,7 +5,7 @@ Hi,
 In this project, I tried to create an ETL pipeline using Apache Cassandra. 
 
 ## Technology
-The work is performed in Jupyter Notebook using Python 3. The packages used are Pandas, csv, cassandra, re, os, and glob. There is a custom function defined in order to gain the ability to see the CQL results neatly.
+The work is performed in Jupyter Notebook using Python 3. The packages used are Pandas, csv, cassandra, re, os, and glob. There is a custom function defined in order to gain the ability to see the CQL results in a neat table.
 
 ## Data
 The data is made up of user, session, and song data related to a music application.
