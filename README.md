@@ -1,4 +1,4 @@
-# data_modeling_with_Apache_Cassandra
+# Data Modeling With Apache Cassandra
 
 Hi,
 
